@@ -1,4 +1,4 @@
-# comp550-Final-Project
+# comp550-Final-Project: Creating a Shared Representation (common interlingua) in Encoder-Decoder transformer model for translation between several languages
 Group Members: 
 
 Nathan Zeweniuk
